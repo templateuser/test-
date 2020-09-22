@@ -1,5 +1,3 @@
 This file was added in the master branch
 
-
-lorem lorem
-This file was appended to from Master Branch
+This file was edited also in the BR-3 Branch
