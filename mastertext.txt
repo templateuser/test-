@@ -1,1 +1,3 @@
 This file was added in the master branch
+
+This file was edited also in the BR-3 Branch
